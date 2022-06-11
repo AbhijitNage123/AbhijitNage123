@@ -2,7 +2,7 @@
 Hi there, I'm Abhijit 👋
 </h2>
 
-<h3 align="center">Experienced in developing Responsive and Interactive features for websites. I love to finding caches and Hanging out with new people.</h3>
+<h3 align="center">I Love to solve problem, read teach article and developing interactive features for websites.</h3>
 
 <br />
 
@@ -19,7 +19,7 @@ Hi there, I'm Abhijit 👋
 <br />
 🤝 Connect with me: **nageabhijit@gmail.com**
 <br />
-⚡ Interested in: **Talking about Memes in my free time.**
+⚡ Interested in: **Talking about memes in free time.**
 
 <br />
 
