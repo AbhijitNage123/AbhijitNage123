@@ -37,8 +37,8 @@ Hi there, I'm Abhijit 👋
 
 <br />
 
-![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=AbhijitNage123&include_all_commits=true&show_icons=true)
+![Abhijit's github stats](https://github-readme-stats.vercel.app/api?username=AbhijitNage123&include_all_commits=true&show_icons=true&theme=tokyonight)
 
 <br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitNage123&layout=compact&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitNage123&layout=compact&hide=html&theme=tokyonight)
