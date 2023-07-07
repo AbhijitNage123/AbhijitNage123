@@ -46,3 +46,7 @@ Hi there, I'm Abhijit 👋
 <br />
 
 [![@abhijitnage123's Holopin board](https://holopin.me/abhijitnage123)](https://holopin.io/@abhijitnage123)
+
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhijitNage123)](https://github.com/AbhijitNage123/github-profile-trophy)
