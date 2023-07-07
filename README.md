@@ -49,4 +49,4 @@ Hi there, I'm Abhijit 👋
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhijitNage123)](https://github.com/AbhijitNage123/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhijitNage123&theme=onedark)](https://github.com/AbhijitNage123/github-profile-trophy)
