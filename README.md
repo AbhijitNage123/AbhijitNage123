@@ -73,18 +73,30 @@ I'm a core contributor to **Spectra – Gutenberg Blocks** (formerly Ultimate Ad
 
 <br />
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <a href="https://github.com/users/AbhijitNage123/achievements/yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" title="YOLO"/>
+  </a>
+  <a href="https://github.com/users/AbhijitNage123/achievements/pair-extraordinaire">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire"/>
+  </a>
+  <a href="https://github.com/users/AbhijitNage123/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark"/>
+  </a>
+  <a href="https://github.com/users/AbhijitNage123/achievements/quickdraw">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw"/>
+  </a>
+  <a href="https://github.com/users/AbhijitNage123/achievements/arctic-code-vault-contributor">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
+  </a>
+</div>
+
+<br />
+
 ## 📊 GitHub Stats
-
-![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhijitNage123&include_all_commits=true&show_icons=true&theme=tokyonight)
-
-<br />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitNage123&layout=compact&hide=html&theme=tokyonight)
-
-<br />
 
 [![@abhijitnage123's Holopin board](https://holopin.me/abhijitnage123)](https://holopin.io/@abhijitnage123)
 
 <br />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhijitNage123&theme=onedark)](https://github.com/AbhijitNage123/github-profile-trophy)
